@@ -1,4 +1,4 @@
-# Cocktail API
+# Cocktail API https://www.thecocktaildb.com/api.php
 
 ### Explain what the API you are writing about does.
 Cocktail API is a free API with thousands of cocktails where you can search for recipes, images of specific cocktails, ingredients, filter by alcoholic, non alcoholic, etc. 
